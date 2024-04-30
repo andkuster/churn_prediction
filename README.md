@@ -16,7 +16,7 @@ Será utilizado conjunto de dados de clientes de uma empresa de telecomunicaçã
 
 A motivação do projeto é comparar a performance dos algoritmos **KNN** e **Random Forest** para um problema de classificação antes e depois da otimização de hiperparâmetros e chegar a uma conclusão sobre o modelo que melhor performou.
 
-![lego-unsplash.jpg](attachment:84a7cc10-1a02-493d-847c-a2781590305c.jpg)
+![lego-unsplash.jpg](https://github.com/andkuster/churn_prediction/blob/main/lego-unsplash.jpg)
 Foto de <a href="https://unsplash.com/pt-br/@helloimnik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nik</a> na <a href="https://unsplash.com/pt-br/fotografias/brinquedo-plastico-redondo-amarelo-e-branco-zYdYz7JlevE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ### Ferramentas:
